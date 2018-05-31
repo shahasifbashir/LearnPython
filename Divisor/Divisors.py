@@ -8,3 +8,5 @@ myList = range(2,(num//2+1))
 for item in myList:
     if(num%item==0):
         print(item,end=" ")
+
+print(num)
